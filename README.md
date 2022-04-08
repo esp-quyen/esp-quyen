@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="200"/>
+</div>
+
 ### Hi there 👋
 
 #### 🔭  I’m currently working on ReactJS/React Native
